@@ -4,12 +4,12 @@
 
 | Stage | Course | Status | Started | Completed | Notes |
 |---|---|---|---|---|---|
-| Family Finance | Balance Sheet | NOT_STARTED | | | |
-| Family Finance | Cash Flow | NOT_STARTED | | | |
-| Family Finance | Emergency Fund | NOT_STARTED | | | |
-| Family Finance | Financial Goals | NOT_STARTED | | | |
-| Family Finance | Time Horizon | NOT_STARTED | | | |
-| Family Finance | Money Buckets | NOT_STARTED | | | |
+| Family Finance | Balance Sheet | UNDERSTOOD | 2026-08-24 | 2026-08-24 | 已完成基础学习与练习 |
+| Family Finance | Cash Flow | UNDERSTOOD | 2026-08-24 | 2026-08-24 | 已完成基础学习与练习 |
+| Family Finance | Emergency Fund | UNDERSTOOD | 2026-08-24 | 2026-08-24 | 已完成基础学习与练习 |
+| Family Finance | Financial Goals | UNDERSTOOD | 2026-08-24 | 2026-08-24 | 已完成基础学习与练习 |
+| Family Finance | Time Horizon | UNDERSTOOD | 2026-08-24 | 2026-08-24 | 已完成基础学习与练习 |
+| Family Finance | Money Buckets | UNDERSTOOD | 2026-08-24 | 2026-08-24 | 已完成基础学习与练习 |
 | Risk & Return | Return & Compounding | NOT_STARTED | | | |
 | Risk & Return | Volatility | NOT_STARTED | | | |
 | Risk & Return | Drawdown | NOT_STARTED | | | |

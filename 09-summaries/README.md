@@ -7,6 +7,10 @@
 - 记录投资认知发生的变化
 - 最终形成自己的家庭投资理财框架
 
+学习辅助材料：
+
+- [家庭财务基础：5 分钟速查表](../01-family-finance/family-finance-5-minute-cheat-sheet.md)
+
 阶段总结建议回答：
 
 ```text
