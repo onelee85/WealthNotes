@@ -12,10 +12,10 @@
 | Family Finance | Money Buckets | UNDERSTOOD | 2026-08-24 | 2026-08-24 | 已完成基础学习与练习 |
 | Risk & Return | Return & Compounding | UNDERSTOOD | 2026-08-25 | 2026-08-26 | [学习证据](../02-risk-and-return/01-return-and-compounding.md#学习证据) |
 | Risk & Return | Volatility | UNDERSTOOD | 2026-08-26 | 2026-08-26 | [学习证据](../02-risk-and-return/02-volatility.md#学习证据) |
-| Risk & Return | Drawdown | NOT_STARTED | | | |
-| Risk & Return | Risk Capacity | NOT_STARTED | | | |
-| Risk & Return | Risk Tolerance | NOT_STARTED | | | |
-| Risk & Return | Common Risks | NOT_STARTED | | | |
+| Risk & Return | Drawdown | UNDERSTOOD | 2026-08-27 | 2026-08-27 | [学习证据](../02-risk-and-return/03-drawdown.md#学习证据) |
+| Risk & Return | Risk Capacity | UNDERSTOOD | 2026-08-27 | 2026-08-27 | [学习证据](../02-risk-and-return/04-risk-capacity.md#学习证据) |
+| Risk & Return | Risk Tolerance | UNDERSTOOD | 2026-08-27 | 2026-08-27 | [学习证据](../02-risk-and-return/05-risk-tolerance.md#学习证据) |
+| Risk & Return | Common Risks | UNDERSTOOD | 2026-08-27 | 2026-08-27 | [学习证据](../02-risk-and-return/06-common-risks.md#学习证据) |
 | Asset Allocation | Asset Classes | NOT_STARTED | | | |
 | Asset Allocation | Diversification | NOT_STARTED | | | |
 | Asset Allocation | Asset Allocation | NOT_STARTED | | | |
