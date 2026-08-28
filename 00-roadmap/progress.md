@@ -16,7 +16,7 @@
 | Risk & Return | Risk Capacity | UNDERSTOOD | 2026-08-27 | 2026-08-27 | [学习证据](../02-risk-and-return/04-risk-capacity.md#学习证据) |
 | Risk & Return | Risk Tolerance | UNDERSTOOD | 2026-08-27 | 2026-08-27 | [学习证据](../02-risk-and-return/05-risk-tolerance.md#学习证据) |
 | Risk & Return | Common Risks | UNDERSTOOD | 2026-08-27 | 2026-08-27 | [学习证据](../02-risk-and-return/06-common-risks.md#学习证据) |
-| Asset Allocation | Asset Classes | NOT_STARTED | | | |
+| Asset Allocation | Asset Classes | UNDERSTOOD | 2026-08-28 | 2026-08-28 | [学习证据](../03-asset-allocation/01-asset-classes.md#学习证据) |
 | Asset Allocation | Diversification | NOT_STARTED | | | |
 | Asset Allocation | Asset Allocation | NOT_STARTED | | | |
 | Asset Allocation | Rebalancing | NOT_STARTED | | | |
