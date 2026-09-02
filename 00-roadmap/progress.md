@@ -17,10 +17,10 @@
 | Risk & Return | Risk Tolerance | UNDERSTOOD | 2026-08-27 | 2026-08-27 | [学习证据](../02-risk-and-return/05-risk-tolerance.md#学习证据) |
 | Risk & Return | Common Risks | UNDERSTOOD | 2026-08-27 | 2026-08-27 | [学习证据](../02-risk-and-return/06-common-risks.md#学习证据) |
 | Asset Allocation | Asset Classes | UNDERSTOOD | 2026-08-28 | 2026-08-28 | [学习证据](../03-asset-allocation/01-asset-classes.md#学习证据) |
-| Asset Allocation | Diversification | NOT_STARTED | | | |
-| Asset Allocation | Asset Allocation | NOT_STARTED | | | |
-| Asset Allocation | Rebalancing | NOT_STARTED | | | |
-| Investment Products | Mutual Funds | NOT_STARTED | | | |
+| Asset Allocation | Diversification | UNDERSTOOD | 2026-08-31 | 2026-08-31 | [学习证据](../03-asset-allocation/02-diversification.md#学习证据) |
+| Asset Allocation | Asset Allocation | UNDERSTOOD | 2026-08-31 | 2026-08-31 | [学习证据](../03-asset-allocation/03-asset-allocation.md#学习证据) |
+| Asset Allocation | Rebalancing | UNDERSTOOD | 2026-09-01 | 2026-09-01 | [学习证据](../03-asset-allocation/04-rebalancing.md#学习证据) |
+| Investment Products | Mutual Funds | UNDERSTOOD | 2026-09-02 | 2026-09-02 | [学习证据](../04-investment-products/01-mutual-funds.md#学习证据) |
 | Investment Products | Index Funds | NOT_STARTED | | | |
 | Investment Products | ETF | NOT_STARTED | | | |
 | Investment Products | Active Funds | NOT_STARTED | | | |

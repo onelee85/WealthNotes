@@ -30,6 +30,15 @@
 | Risk & Return | R2 | 2026-08-28 | PASS | 能连接收益路径、最大回撤、家庭客观约束、心理容忍度和产品风险；经纠正后明确历史数据不能证明未来表现或绝对安全，信息不足时不作产品排序。 | 进入 Stage 3 前复测上述最薄弱知识点（R3） | [Stage 2 综合案例证据](../02-risk-and-return/stage-02-risk-and-return.md#r2-综合案例证据) |
 | Risk & Return | R3 | 2026-08-28 | PASS | 能识别同一行业的伪分散、历史稳定的外推边界，以及七年退出与三年必要用途之间的期限错配；能正确指出集中、信用与流动性风险。 | Stage 3 学习过程中按新课复习触发点继续 | [Stage 2 综合案例证据](../02-risk-and-return/stage-02-risk-and-return.md#r2-综合案例证据) |
 | Asset Classes | R0 | 2026-08-28 | PASS | 资产类别不是具体资产；产品需穿透到底层；债券本金回收不等于收益；REIT 份额与底层物业要分层理解；资产角色不等于结果保证。 | 2026-08-29 或之后的下一次独立学习会话（R1） | [学习证据](../03-asset-allocation/01-asset-classes.md#学习证据) |
+| Asset Classes | R1 | 2026-08-31 | PASS | 能识别底层持仓重合造成的伪分散；能区分债券与现金的角色及风险；明确过去稳定不保证未来安全。 | 完成 Stage 3 时（R2） | [学习证据](../03-asset-allocation/01-asset-classes.md#学习证据) |
+| Diversification | R0 | 2026-08-31 | PASS | 分散降低而非消除集中风险；须穿透核对底层重合；分散与可维护的复杂度之间须取舍。 | 2026-09-01 或之后的下一次独立学习会话（R1） | [学习证据](../03-asset-allocation/02-diversification.md#学习证据) |
+| Asset Allocation | R0 | 2026-08-31 | PASS | 配置以目标、期限、流动性和风险承受能力为约束；比例影响风险特征；近期表现不能替代组合判断。 | 2026-09-01 或之后的下一次独立学习会话（R1） | [学习证据](../03-asset-allocation/03-asset-allocation.md#学习证据) |
+| Diversification + Asset Allocation | R1 | 2026-09-01 | PASS | 能识别底层持仓重合；能以目标、期限、流动性和风险承受能力解释配置约束；分散可降低集中风险，但不能消除整体市场下跌等风险或保证收益。 | 完成 Stage 3 时（R2） | [Diversification 学习证据](../03-asset-allocation/02-diversification.md#学习证据)；[Asset Allocation 学习证据](../03-asset-allocation/03-asset-allocation.md#学习证据) |
+| Rebalancing | R0 | 2026-09-01 | PASS | 能按目标、阈值与交易摩擦判断是否调整；起初将新增资金再平衡的理由误作市场预测，经替代题后已能说明其减少交易摩擦的作用；能区分再平衡与择时。 | 2026-09-02 或之后的下一次独立学习会话（R1） | [学习证据](../03-asset-allocation/04-rebalancing.md#学习证据) |
+| Asset Allocation | R2 | 2026-09-01 | PASS | 能在虚构案例中识别科技基金底层重合、三年必要用途与高波动资产的期限错配，以及长期债券基金的流动性与退出成本限制；经替代题后能说明比例偏离不必立即卖出高成本、低流动性资产。 | 进入 Stage 4 前复测本 Stage 薄弱点（R3） | [Stage 3 复习卡](../03-asset-allocation/asset-allocation-5-minute-cheat-sheet.md) |
+| Rebalancing | R1 | 2026-09-02 | PASS | 能区分按预设阈值执行的纪律性再平衡与基于短期预测的择时；能说明利用新增资金补足低配资产可减少卖出和交易摩擦。复习中补充了税费、流动性、退出限制及家庭约束变化等检查因素。 | 后续产品案例涉及配置调整时继续迁移检索 | [学习证据](../03-asset-allocation/04-rebalancing.md#学习证据) |
+| Asset Allocation | R3 | 2026-09-02 | PASS | 能识别产品名称不同但底层持仓重合造成的伪分散；经替代题确认“可随时赎回”只说明流动性，不保证三年后必要用途所需价值，并能指出价格波动、债券期限与利率风险仍需评估。 | Stage 4 产品学习中继续穿透底层并核实期限与退出条件 | [Stage 3 复习卡](../03-asset-allocation/asset-allocation-5-minute-cheat-sheet.md) |
+| Mutual Funds | R0 | 2026-09-02 | PASS | 能区分投资者、基金管理人、基金经理与托管人的角色；能穿透底层资产并结合用途判断。经替代题纠正了 `T+1` 泛化、只看基金经理、可赎回即适配、单一费用比较及托管保证本金等误区。 | 2026-09-03 或之后的下一次独立学习会话（R1） | [学习证据](../04-investment-products/01-mutual-funds.md#学习证据) |
 
 `Result` 只使用：
 
